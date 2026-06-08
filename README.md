@@ -9,7 +9,7 @@
 ### 🐧 Introduce
 - 🔭 **I’m currently working on** : monster-baseball-game, meal_app 등 다양한 프로젝트 개발 중!
 - 🌱 **I’m currently learning** : React, TypeScript, Flutter 등 프론트엔드와 앱 개발 역량을 키우고 있습니다.
-- 📫 **How to reach me** : jgj1020 (이메일이나 블로그 주소가 있다면 여기에 적어주세요)
+- 📫 **How to reach me** : jgj1020 (s2433@e-mirim.hs.kr)
 
 <br>
 
