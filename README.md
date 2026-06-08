@@ -9,7 +9,7 @@
 ### 🐧 Introduce
 - 🔭 **I’m currently working on** : monster-baseball-game, meal_app 등 다양한 프로젝트 개발 중!
 - 🌱 **I’m currently learning** : React, TypeScript, Flutter 등 프론트엔드와 앱 개발 역량을 키우고 있습니다.
-- 📫 **How to reach me** : jgj1020 (s2433@e-mirim.hs.kr)
+- 📫 **How to reach me** : 📧 [s2433@e-mirim.hs.kr]
 
 <br>
 
@@ -26,17 +26,4 @@
 
 <br>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgj1020&show_icons=true&theme=tokyonight&count_private=true" alt="jgj1020 stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgj1020&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
-<br>
-
 ---
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=02569B&text=HITS%20:%20&fontSize=15&fontColor=fff&height=30" />
-</p>
