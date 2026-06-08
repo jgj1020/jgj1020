@@ -29,4 +29,6 @@
 ---
 
 ### 📅 My 3D Contribution Calendar
-![](https://github.com/jgj1020/3d-test/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jgj1020/3d-test/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D 잔디" />
+</p>
