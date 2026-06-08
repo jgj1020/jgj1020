@@ -9,7 +9,7 @@
 ### 🐧 Introduce
 - 🔭 **I’m currently working on** : monster-baseball-game, meal_app 등 다양한 프로젝트 개발 중!
 - 🌱 **I’m currently learning** : React, TypeScript, Flutter 등 프론트엔드와 앱 개발 역량을 키우고 있습니다.
-- 📫 **How to reach me** : KJun1020 [s2433@e-mirim.hs.kr]
+- 📫 **How to reach me** : 📧 [s2433@e-mirim.hs.kr](mailto:s2433@e-mirim.hs.kr)
 
 <br>
 
@@ -27,3 +27,6 @@
 <br>
 
 ---
+
+### 📅 My 3D Contribution Calendar
+![](https://github.com/jgj1020/3d-test/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true)
