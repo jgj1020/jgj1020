@@ -1,24 +1,29 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        
+      - name: Generate 3D Calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: jgj1020
+          
+      - name: Commit & Push Changes
         run: |
-          git config user.name jgj1020
-          git config user.email jgj1020@github.com
+          git config --local user.name "jgj1020"
+          git config --local user.email "s2433@e-mirim.hs.kr"
           git add -A .
-          git commit -m "generated"
+          git commit -m "Generated 3D Profile Contrib" || exit 0
           git push
