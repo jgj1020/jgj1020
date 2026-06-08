@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats
 | My GitHub Stats | Top Languages |
 | :---: | :---: |
-| ![jgj1020's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgj1020&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgj1020&layout=compact&theme=dark) |
+| ![jgj1020's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=jgj1020&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=jgj1020&layout=compact&theme=dark) |
 
 <br>
 
