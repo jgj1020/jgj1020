@@ -10,12 +10,14 @@
 
 ---
 
-# 🐧 About Me
+## 🐧 About Me
 
-* 🔭 I’m currently learning React, TypeScript and Node.js
-* 🌱 Frontend Development
-* 📧 Email : [s2433@e-mirim.hs.kr](mailto:s2433@e-mirim.hs.kr)
-* 🆔 GitHub ID : jgj1020
+* 🌱 React, TypeScript, Node.js를 배우고 있습니다.
+* 💻 프론트엔드 개발자를 목표로 공부하고 있습니다.
+* 🚀 다양한 웹 서비스를 만들며 성장하고 있습니다.
+* 📧 Contact : **[s2433@e-mirim.hs.kr](mailto:s2433@e-mirim.hs.kr)**
+* 🐙 GitHub : **jgj1020**
+
 
 ---
 
