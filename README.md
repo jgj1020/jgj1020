@@ -51,5 +51,17 @@
 
 <br>
 
+### 📊 GitHub Stats & Streak
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jgj1020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="jgj1020's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgj1020&theme=tokyonight&hide_border=true" alt="jgj1020's GitHub Streak" height="180px" />
+</p>
+
+<br>
+
+---
+
+<br>
+
 ### 📅 My 3D Contribution Calendar
 ![](https://github.com/jgj1020/3d-test/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true)
