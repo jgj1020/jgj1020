@@ -2,7 +2,7 @@
 
 <br>
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:007bff,100:00c6ff&height=300&section=header&text=Welcome%20to%20jkj1020's%20Space%20🐧&fontSize=40&animation=typing&fontAlignY=50&theme=dark)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=azure&height=300&section=header&text=Welcome%20to%20jkj1020's%20Space%20🐧&fontSize=40&animation=typing&fontAlignY=40&theme=dark)
 
 <br>
 
