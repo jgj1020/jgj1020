@@ -47,14 +47,6 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jgj1020&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -79,14 +71,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgj1020&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jgj1020/jgj1020/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
