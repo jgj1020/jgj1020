@@ -2,10 +2,8 @@
 
 <br>
 
-<div align="center" style="position: relative; width: 100%; height: 180px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header" width="100%" style="position: absolute; top: 0; left: 0; z-index: 1;" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70" alt="Typing SVG" style="position: absolute; top: 40px; left: 50%; transform: translateX(-50%); z-index: 2;" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Welcome%20to%20jkj1020's%20Space%20🐧&fontSize=35&fontAlignY=40&animation=typing&theme=dark" width="100%" />
 </div>
 
 <br>
