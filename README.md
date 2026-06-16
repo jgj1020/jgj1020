@@ -40,7 +40,7 @@
 #### 🛠️ Tools & IDE
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" width="45" height="45" style="filter: invert(1);"/>
+  <img src="https://api.iconify.design/bi:github.svg?color=black&box=true" alt="github" width="45" height="45" style="background: white; border-radius: 6px; padding: 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
 </p>
