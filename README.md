@@ -2,7 +2,11 @@
 
 <br>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=300&section=header&text=Welcome%20to%20jkj1020's%20Space%20🐧&fontSize=40&fontAlignY=40&theme=dark)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header" width="100%" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+jkj1020's+Space+%F0%9F%90%A7" alt="Typing SVG" />
+</div>
 
 <br>
 
