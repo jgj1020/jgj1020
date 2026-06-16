@@ -1,71 +1,108 @@
-## Hi there 👋
+# <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=250&section=header&text=JKJ1020&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20🐧&descAlignY=58&descSize=20" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header" width="100%" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+jkj1020's+Space+%F0%9F%90%A7" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=30\&duration=3000\&pause=1000\&color=6FB1FC\&center=true\&vCenter=true\&width=700\&lines=Welcome+to+JKJ1020's+Space+🐧;Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=jgj1020\&style=for-the-badge\&color=blueviolet)
+
 </div>
 
-<br>
+---
 
-### 🐧 Introduce
-- 🔭 **I’m currently learning** : React, TypeScript, Node.js, Frontend 개발 공부 중
-- 📧 **Email** : [s2433@e-mirim.hs.kr](mailto:s2433@e-mirim.hs.kr)
-- 🆔 **GitHub ID** : jgj1020
+# 🐧 About Me
 
-<br>
-
-### 🛠️ Tech Stacks
-
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-</p>
-
-#### 💾 Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-</p>
-
-#### 🗄️ Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-</p>
-
-#### 🛠️ Tools & IDE
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://api.iconify.design/bi:github.svg?color=black&box=true" alt="github" width="45" height="45" style="background: white; border-radius: 6px; padding: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-</p>
-
-<br>
+* 🔭 I’m currently learning React, TypeScript and Node.js
+* 🌱 Frontend Development
+* 📧 Email : [s2433@e-mirim.hs.kr](mailto:s2433@e-mirim.hs.kr)
+* 🆔 GitHub ID : jgj1020
 
 ---
 
-<br>
+# 🚀 Tech Stack
 
-### 📊 GitHub Stats & Streak
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgj1020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="jgj1020's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgj1020&theme=tokyonight&hide_border=true" alt="jgj1020's GitHub Streak" height="180px" />
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter"/>
 </p>
 
-<br>
+### 💾 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,nodejs"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
+</p>
 
 ---
 
-<br>
+# 🏆 GitHub Trophy
 
-### 📅 My 3D Contribution Calendar
-![](https://github.com/jgj1020/3d-test/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true) 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jgj1020&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgj1020&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jgj1020&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌎 Most Used Languages
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgj1020&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jgj1020&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jgj1020/jgj1020/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌌 3D Contribution Calendar
+
+<p align="center">
+<img width="1000" src="https://github.com/jgj1020/3d-test/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true"/>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,100:0052D4&height=120&section=footer"/>
+
+</div>
