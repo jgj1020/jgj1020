@@ -50,7 +50,7 @@
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jgj1020&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jgj1020&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
