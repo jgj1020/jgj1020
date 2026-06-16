@@ -2,10 +2,10 @@
 
 <br>
 
-<div align="center" style="position: relative; width: 100%; height: 180px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header" width="100%" style="position: absolute; top: 0; left: 0; z-index: 1;" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header" width="100%" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70" alt="Typing SVG" style="position: absolute; top: 40px; left: 50%; transform: translateX(-50%); z-index: 2;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+jkj1020's+Space+%F0%9F%90%A7" alt="Typing SVG" />
 </div>
 
 <br>
@@ -68,4 +68,4 @@
 <br>
 
 ### 📅 My 3D Contribution Calendar
-![](https://github.com/jgj1020/3d-test/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true)
+![](https://github.com/jgj1020/3d-test/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true) 
