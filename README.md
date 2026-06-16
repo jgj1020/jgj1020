@@ -12,12 +12,28 @@
 
 ## 🐧 About Me
 
-* 🌱 React, TypeScript, Node.js를 공부하고 있습니다.
+* 🌱 React, TypeScript, Node.js를 공부하며 성장하고 있습니다.
 * 🎨 사용자 중심의 웹 서비스를 만드는 프론트엔드 개발자를 꿈꾸고 있습니다.
 * 🚀 새로운 기술을 배우고 직접 구현해 보는 것을 좋아합니다.
-* 📧 Email : **[s2433@e-mirim.hs.kr](mailto:s2433@e-mirim.hs.kr)**
-* 🐙 GitHub : **jgj1020**
-* 📷 Instagram : **@jgj1020**
+
+<br>
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:s2433@e-mirim.hs.kr">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/jgj1020">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/jgj1020/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 
 
 ---
