@@ -87,7 +87,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/jgj1020?template=classic&isocalendar=1&isocalendar.duration=half-year" alt="Activity Graph" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgj1020&theme=tokyonight" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
