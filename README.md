@@ -75,10 +75,11 @@
 </p>
 
 ---
+
 # 🌱 Contributions Heatmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jgj1020/jgj1020/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://ghchart.rshah.org/4364F7/jgj1020" alt="jgj1020's Github Heatmap" width="100%"/>
 </p>
 
 ---
@@ -86,7 +87,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jgj1020&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgj1020&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
