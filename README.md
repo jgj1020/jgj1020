@@ -87,7 +87,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jgj1020&theme=react-dark&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/jgj1020?template=classic&isocalendar=1&isocalendar.duration=half-year" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
