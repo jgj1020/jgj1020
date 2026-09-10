@@ -75,11 +75,10 @@
 </p>
 
 ---
-
 # 🌱 Contributions Heatmap
 
 <p align="center">
-  <img src="https://github-readme-snk.vercel.app/api/snake?username=jgj1020&theme=dark" alt="Contributions Heatmap" width="100%"/>
+  <img src="https://raw.githubusercontent.com/jgj1020/jgj1020/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
